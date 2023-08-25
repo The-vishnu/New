@@ -1,4 +1,2 @@
-# New
-For demo
-<br>
-Author: vishnu
+Hey I am new on github 
+author: vishnu
